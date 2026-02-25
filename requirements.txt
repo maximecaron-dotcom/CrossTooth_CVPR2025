@@ -1,8 +1,8 @@
 # python==3.8.19
-matplotlib==3.7.5
+matplotlib>=3.5,<3.7
 wandb==0.12.1
 pillow>=9.3.0
-numpy==1.21.0
+numpy>=1.19,<1.20
 h5py==3.3.0
 # lightly==1.1.21
 gdown==3.13.0
